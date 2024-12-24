@@ -1,4 +1,4 @@
-# Threat Intelligence Resources 🛡️
+# Cyber Security News Resources 🛡️
 
 Here are some of the most up-to-date resources, blogs, and articles that focus on Threat Intelligence, Cybersecurity, and Cybercrime. These sources provide valuable insights, strategies, and research on the latest trends and threats in the cybersecurity landscape, including news on emerging malware, vulnerabilities, cyberattacks, and the use of AI in cybersecurity.
 
