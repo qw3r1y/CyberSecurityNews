@@ -3,13 +3,13 @@
 Here are some of the most up-to-date resources, blogs, and articles that focus on Threat Intelligence, Cybersecurity, and Cybercrime. These sources provide valuable insights, strategies, and research on the latest trends and threats in the cybersecurity landscape, including news on emerging malware, vulnerabilities, cyberattacks, and the use of AI in cybersecurity.
 
 ## Threat Intelligence Blogs 📝
-- [Rapid7 Blog - Threat Intelligence: Latest News & Strategies](https://www.rapid7.com/blog/)
+- [Rapid7 Blog - Threat Intelligence: Latest News & Strategies](https://www.rapid7.com/blog/tag/threat-intel/)
 - [SecurityWeek - Cybersecurity News, Insights, and Analysis](https://www.securityweek.com/)
-- [Mimecast - Latest Threat Intelligence Articles](https://www.mimecast.com/)
-- [Cyware - Threat Intel & Info Sharing | Cyber Security News Today](https://www.cyware.com/)
+- [Mimecast - Latest Threat Intelligence Articles](https://www.mimecast.com/blog/threat-intelligence/)
+- [Cyware - Threat Intel & Info Sharing | Cyber Security News Today](https://social.cyware.com/category/cyber-threat-intelligence-news)
 - [The Hacker News - #1 Trusted Cybersecurity News Site](https://thehackernews.com/)
 - [Infosecurity Magazine - Threat Intelligence News and Articles](https://www.infosecurity-magazine.com/)
-- [Check Point Research (CPR)](https://www.checkpoint.com/research/)
+- [Check Point Research (CPR)](https://research.checkpoint.com/)
 - [NCC Group - Cyber Threat Intelligence Reports](https://www.nccgroup.com/)
 - [National Cyber Security Centre - NCSC.GOV.UK](https://www.ncsc.gov.uk/)
 - [Microsoft Security Blog - Threat Intelligence](https://www.microsoft.com/security/blog/)
@@ -26,7 +26,7 @@ Here are some of the most up-to-date resources, blogs, and articles that focus o
 
 ## Cybercrime News 💻
 - [Cybercrime Wire - Latest Security And Privacy News](https://www.cybercrimewire.com/)
-- [Cybercrime News - Latest Cybersecurity Reports](https://www.cybercrime.com/)
+- [Cybercrime News - Latest Cybersecurity Reports](https://cybersecurityventures.com/)
 - [CyberScoop - Breaking Cybersecurity News, Public Sector Threats](https://www.cyberscoop.com/)
 - [NCSC.GOV.UK - Global ransomware threat expected to rise with AI, NCSC warns](https://www.ncsc.gov.uk/)
   
@@ -34,10 +34,10 @@ Here are some of the most up-to-date resources, blogs, and articles that focus o
 - [Kaspersky’s Securelist - Threat Research and Reports](https://securelist.com/)
 - [Threatpost - Vulnerabilities News](https://www.threatpost.com/)
 - [RedPacket Security - InfoSec News & Tutorials](https://www.redpacketsecurity.com/)
-- [Unit 42 - Latest Cyber Security Research | Palo Alto Networks](https://www.paloaltonetworks.com/unit42)
+- [Unit 42 - Latest Cyber Security Research | Palo Alto Networks](https://unit42.paloaltonetworks.com/)
 - [BlackBerry - Intelligent Security Everywhere](https://www.blackberry.com/)
-- [CrowdStrike - Cyber Defense Resources & Threat Intelligence Insights](https://www.crowdstrike.com/)
+- [CrowdStrike - Cyber Defense Resources & Threat Intelligence Insights](https://www.trendmicro.com/en_us/research.html)
 - [Dark Reading - Threat Intelligence Recent News](https://www.darkreading.com/)
-- [The DFIR Report - Real Intrusions by Real Attackers](https://www.dfir.report/)
+- [The DFIR Report - Real Intrusions by Real Attackers](https://thedfirreport.com/)
 - [Freedium - Breaking Medium Paywall](https://freedium.com/)
 - [DataBreaches.Net – Insufficient Security Office](https://www.databreaches.net/)
